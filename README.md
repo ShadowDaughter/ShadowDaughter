@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc2bzA5cjhqY2F6cmwzNW1rMW13Y3ZwandzeWx2a3Nmb3pqNmxnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif"  />
+<br clear="both">
+
+<h4 align="left">My languages:</h4>
 
 ###
 
@@ -29,6 +31,12 @@
 
 ###
 
+<br clear="both">
+
+<h4 align="left">My Social Media:</h4>
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/channel/UC3SSTZ8kT0I4AEcaNCgZDlg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -37,5 +45,9 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc2bzA5cjhqY2F6cmwzNW1rMW13Y3ZwandzeWx2a3Nmb3pqNmxnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif"  />
 
 ###
