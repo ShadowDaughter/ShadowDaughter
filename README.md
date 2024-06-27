@@ -23,7 +23,3 @@ In addition to coding, I love playing games, such as shooters, souls-likes, VRCh
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
-
-###
-
-<br clear="both">
