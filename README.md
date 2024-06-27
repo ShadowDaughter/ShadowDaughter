@@ -6,8 +6,6 @@ I'm a self-taught, 22 years old Software Engineer with about 14 years of experie
 
 In addition to coding, I love playing games, such as shooters, souls-likes, VRChat and essentially anything I get invited to. I also enjoy going on hikes through forests to relax myself in the calm nature.
 
-<br clear="both">
-
 <h4 align="left">My languages:</h4>
 
 ###
