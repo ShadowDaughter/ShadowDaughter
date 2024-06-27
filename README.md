@@ -2,12 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowDaughter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ShadowDaughter&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+I'm a self-taught, 22 years old Software Engineer with about 14 years of experience. I currently work as a Product Owner in real life and enjoy working on personal projects, such as developing Roblox games, in my free time. I love learning new things, and involving myself in topics that seem fun and pique my interest. :)
 
-###
+In addition to coding, I love playing games, such as shooters, souls-likes, VRChat and essentially anything I get invited to. I also enjoy going on hikes through forests to relax myself in the calm nature.
 
 <br clear="both">
 
@@ -32,19 +29,3 @@
 ###
 
 <br clear="both">
-
-<h4 align="left">My Social Media:</h4>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc2bzA5cjhqY2F6cmwzNW1rMW13Y3ZwandzeWx2a3Nmb3pqNmxnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC3SSTZ8kT0I4AEcaNCgZDlg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
-
-###
