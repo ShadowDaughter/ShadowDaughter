@@ -2,7 +2,7 @@
 
 ###
 
-I'm a self-taught, 22 years old Software Engineer with about 14 years of experience. I currently work as a Product Owner in real life and enjoy working on personal projects, such as developing Roblox games, in my free time. I love learning new things, and involving myself in topics that seem fun and pique my interest.
+I'm a self-taught, 23 years old Software Engineer with about 14 years of experience. I currently work as a Product Owner in real life and enjoy working on personal projects, such as developing Roblox games, in my free time. I love learning new things, and involving myself in topics that seem fun and pique my interest.
 
 In addition to coding, I love playing games, such as shooters, souls-likes, VRChat and essentially anything I get invited to. I also enjoy going on hikes through forests to relax myself in the calm nature.
 
