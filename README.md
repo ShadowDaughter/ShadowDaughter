@@ -6,29 +6,40 @@ In addition to coding, I love playing games, such as shooters, souls-likes, VRCh
 
 <h4 align="left">My languages:</h4>
 <div align="left">
-  <a href="https://cplusplus.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
+  <a href="https://cplusplus.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
   </a>
+
+  <img width="5" />
 
   <a href="https://luau-lang.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"/>
   </a>
 
+  <img width="5" />
+
   <a href="https://www.javascript.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   </a>
+
+  <img width="5" />
 
   <a href="https://www.typescriptlang.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"/>
   </a>
 
+  <img width="5" />
+
   <a href="https://nodejs.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"/>
   </a>
 
+  <img width="5" />
+
   <a href="https://www.mysql.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
   </a>
+
+  <img width="5" />
 
   <a href="https://www.mongodb.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"/>
