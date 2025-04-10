@@ -7,7 +7,7 @@ In addition to coding, I love playing games, such as shooters, souls-likes, VRCh
 
 ---
 <p align="center">
-	<img width="49%" src="https://github-widgetbox-shadow.vercel.app/api/skills?languages=cpp,lua,ts,js,node&includeNames=true&theme=aether">
+	<img width="49%" src="https://github-widgetbox-shadow.vercel.app/api/skills?languages=cpp,luau,ts,js,node&includeNames=true&theme=aether">
 	<img width="49%" src="https://github-widgetbox-shadow.vercel.app/api/skills?tools=vscode,git,npm,windows,linux&includeNames=true&theme=aether">
 	<img src="https://github-widgetbox.vercel.app/api/profile?username=ShadowDaughter&data=followers,repositories,stars,commits&theme=aether">
 </p>
